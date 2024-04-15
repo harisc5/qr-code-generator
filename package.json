@@ -1,7 +1,7 @@
 {
   "name": "qr-code-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "My code generator",
   "main": "index.js",
   "type": "module",
   "scripts": {
